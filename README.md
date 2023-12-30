@@ -10,4 +10,3 @@
 - ⚡ Fun fact: ...
 -->
 
-  [![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,nodejs,mongodb,c,cpp,py,java,git,vscode,html,css,vercel,php,postman,powershell,netlify,mysql,linux,github,express,bootstrap,materialui)](https://skillicons.dev)  
